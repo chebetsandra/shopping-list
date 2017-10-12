@@ -1,0 +1,18 @@
+body {
+background: blue url(..'img_shoppinglist.jpg')
+text-align: center;
+}
+#main {
+width: 1000px;
+height: 700px;
+bg-color: #ffab19;
+margin:25px auto;
+}
+.wrapper {
+background-color: black;
+}
+h1 {
+text-align: center; font-family:"Times New Roman";
+font:24pt;
+color: #fff;
+}
